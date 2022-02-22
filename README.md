@@ -1,15 +1,10 @@
-# Basic Sample Hardhat Project
+# Cool Name Services
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+### What's this?
 
-Try running some of the following tasks:
+- this is a way to own your customized domain as an NFT, give it a try in the [website!](https://domain-starter-project.fachryadhitya.repl.co/) 
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+### How to run locally?
+- Get your Alchemy URL in Alchemy Website, create project and choose mumbai network
+- Get your Metamask private keys (not public!) and pls **dont commit that private keys**
+
